@@ -1,7 +1,7 @@
 # python-project
 
 
-## Driver (Drowsiness,fog) Classification model using CNN
+## Driver Drowsiness and Fog Monitoring System using Deep Learning
 
 In this project,  We classied the foggy,drowsiness images and performed prediction.CNN(Convolutional neural networks are used for classification of the images .Sequential method  is used to build layer by layer model.Accuracy is calculated and model is saved to fog model pickel file.Flask is used to build a web application to upload images of drowsiness and foogginess of driver.
 
